@@ -31,6 +31,7 @@ const init = function () {
   activePlayer = 0;
   playing = true;
 };
+
 init();
 
 const switchPlayer = function () {
